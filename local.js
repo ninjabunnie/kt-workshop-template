@@ -56,7 +56,7 @@ var duration = moment.duration(between_now_and_event).minutes();
 const marquee_message =
   `<li id="xkcd"><marquee>
 
-  A student drops out of college every 26 seconds.
+  $$$$$. A student drops out of college every 26 seconds. $$$$$
 
   </marquee></li>`;
 
